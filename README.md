@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p>Welcome to my page! </br> I'm Michel, Front End developer from Dordrecht, the Netherlands</b>. I’m looking to collaborate on starter projects to hone my developer skills.<br>
-- 🔭 Working on multiple frontend projects using React and Nodejs.<br>
+- 🔭 Focussing on frontend projects using React and Nodejs.<br>
 - 🌱 Learning design patterns in depth.<br>
 - ✨ Reach me at michelandre.degroot@gmail.com.<br></p>
 <br>
